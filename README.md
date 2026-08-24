@@ -90,7 +90,7 @@ This is important because a deployed model must receive data in the same format 
 
 The application was deployed as a public Streamlit web application so users can access and interact with the model through a web browser.
 
-🔗 **Live Application:** Coming soon
+🔗 **Live Application:** (https://titanic-survival-deployment-2zr4nmg7mmm46yqdxojkk6.streamlit.app/)
 
 The application allows users to enter Titanic passenger information and receive a survival prediction together with the estimated probability of survival.
 
